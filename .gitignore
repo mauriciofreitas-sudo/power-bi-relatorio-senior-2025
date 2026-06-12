@@ -1,0 +1,6 @@
+# Ignorar arquivos Power BI (binários grandes)
+*.pbix
+
+# Arquivos temporários do Windows
+Thumbs.db
+desktop.ini
